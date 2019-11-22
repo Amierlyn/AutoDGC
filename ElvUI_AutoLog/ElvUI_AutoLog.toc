@@ -1,0 +1,13 @@
+## Interface: 80100
+## Title: |cff1784d1ElvUI |rAutoLog
+## Version: 1.20
+## Author: Sno
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+
+libs\LibElvUIPlugin-1.0\LibElvUIPlugin-1.0.lua
+ElvUI_AutoLog.lua
+
+
+## X-Tukui-ProjectID: 163
+## X-Tukui-ProjectFolders: ElvUI_AutoLog
