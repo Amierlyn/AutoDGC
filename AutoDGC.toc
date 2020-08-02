@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: AutoDGC
+## Author: Amierlyn & Sonofalder
+## Version: v0.1 Beta
+## Notes: Auto Ding Greet and Congrats
+
+main.lua
